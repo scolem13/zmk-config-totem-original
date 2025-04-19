@@ -52,6 +52,18 @@
         timeout-ms = <50>;
         key-positions = <16 6>;
         bindings = <&kp RET>;
+        }; 
+
+        combo_r_enter_down {
+        timeout-ms = <50>;
+        key-positions = <16 27>;
+        bindings = <&kp RET>;
+        }; 
+
+        combo_bspc {
+        timeout-ms = <50>;
+        key-positions = <17 28>;
+        bindings = <&kp BSPC>;
         };
 
         combo_l_enter {
@@ -114,7 +126,7 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp J       &kp G       &kp F       &kp P       &kp V           &kp SEMICOLON    &kp PERIOD   &kp SLASH   &kp LS(SQT)  &kp SQT
+                &kp J       &kp G       &kp M       &kp P       &kp V           &kp SEMICOLON    &kp PERIOD   &kp SLASH   &kp LS(SQT)  &kp SQT
                 &kp R       &mt LALT S  &mt LCTRL N  &mt LGUI D       &kp W     &kp COMMA        &mt RGUI A  &mt RCTRL E  &mt RALT I   &kp H
         &kp Q  &kp X  &kp F       &kp L        &kp C            &kp B            &kp MINUS              &kp U        &kp O        &kp Y        &kp K    &kp BSLH
                                         &kp DEL   &lt NAV TAB   &mt LSHFT T      &mt RSHIFT SPACE       &lt SYM ESC  &kp BSPC
