@@ -102,7 +102,7 @@ label= "BASE"                              ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp J       &kp G       &kp F       &kp P       &kp V           &kp SEMICOLON    &kp PERIOD   &kp SLASH   &kp LS(SQT)  &kp SQT
-                &mt LGUI A  &mt LALT R  &mt LCTRL S &mt LSHFT T &kp D           &kp H       &mt RSHFT N &mt RCTRL E &mt RALT I  &mt RGUI O
+                &kp R       &mt LALT S  &mt LCTRL N  &mt LGUI D       &kp W     &kp COMMA        &mt RGUI A  &mt RCTRL E  &mt RALT I   &kp H
     &kp Q       &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
                                         &kp DEL   &lt NAV TAB   &kp RET         &kp SPACE   &lt SYM ESC   &kp BSPC
                         >;
