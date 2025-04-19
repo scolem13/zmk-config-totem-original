@@ -104,7 +104,7 @@ label= "BASE"                              ;
                 &kp J       &kp G       &kp F       &kp P       &kp V           &kp SEMICOLON    &kp PERIOD   &kp SLASH   &kp LS(SQT)  &kp SQT
                 &kp R       &mt LALT S  &mt LCTRL N  &mt LGUI D       &kp W     &kp COMMA        &mt RGUI A  &mt RCTRL E  &mt RALT I   &kp H
         &kp Q  &kp X  &kp F       &kp L        &kp C            &kp B            &kp MINUS              &kp U        &kp O        &kp Y        &kp K    &kp BSLH
-                                        &kp DEL   &lt NAV TAB   &kp RET         &kp SPACE   &lt SYM ESC   &kp BSPC
+                                        &kp DEL   &lt NAV TAB   &mt LSHFT T      &mt RSHIFT SPACE       &lt SYM ESC  &kp BSPC
                         >;
                 };
 
